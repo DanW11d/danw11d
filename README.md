@@ -5,4 +5,4 @@
 ## I'm a beginner Python developer.
 
 - 🔭 I'm currently working on a Telegram bot.
-- ⚡ I'm currently studying at university and looking for my first job.
+- ⚡ I'm also a university student and looking for my first job.
