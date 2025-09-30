@@ -35,3 +35,17 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
+
+## 💻 Most Used Languages  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanW11d&layout=compact&theme=radical&hide_border=true&langs_count=6)  
+
+**Статистика использования:**  
+- 🐍 Python – 53.96%  
+- 🗄️ TSQL – 22.82%  
+- ⚡ C# – 13.36%  
+- 🔷 C++ – 5.40%  
+- 🌐 HTML – 2.35%  
+- 🎮 Lua – 2.10%  
+
+---
