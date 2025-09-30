@@ -6,10 +6,10 @@
 
 ## 👨‍💻 About Me  
 
-- 😄 Beginner **Python developer**  
-- 🔭 Currently working on a **Telegram bot**  
-- ⚡ University student, looking for my **first job** in IT  
-- 🎯 Interested in backend, bots, and web frameworks  
+- 😄 Beginner **Python developer**, focused on backend and Telegram bots.  
+- 🔭 Currently building a **Telegram bot**.  
+- ⚡ University student, looking for my **first developer job**.  
+- 📫 Contact: https://t.me/danjek7
 
 ---
 
@@ -40,29 +40,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanW11d&layout=compact&theme=radical&hide_border=true&langs_count=6)  
 
-**Статистика использования:**  
-- 🐍 Python – 53.96%  
-- 🗄️ TSQL – 22.82%  
-- ⚡ C# – 13.36%  
-- 🔷 C++ – 5.40%  
-- 🌐 HTML – 2.35%  
-- 🎮 Lua – 2.10%  
-
 ---
 
 ## 📊 GitHub Stats  
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanW11d&theme=radical)  
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanW11d&theme=radical)  
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanW11d&theme=radical)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DanW11d&theme=radical&hide_border=true)  
-
----
-
-## 🏆 GitHub Achievements  
-
-![Achievements](https://github-profile-trophy.vercel.app/?username=DanW11d&theme=radical&no-frame=true&row=2&column=4)  
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanW11d&theme=radical)    
 
 ---
 
