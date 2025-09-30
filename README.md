@@ -49,3 +49,13 @@
 - 🎮 Lua – 2.10%  
 
 ---
+
+## 📊 GitHub Stats  
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanW11d&theme=radical)  
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanW11d&theme=radical)  
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanW11d&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DanW11d&theme=radical&hide_border=true)  
+
+---
