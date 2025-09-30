@@ -1,6 +1,8 @@
-# 👋 Hi, I'm DanW11d  
+<h1 align="center">👋 Hi, I'm DanW11d</h1>
 
-![Header](https://github.com/DanW11d/danw11d/blob/main/assets/github-snake.svg)
+<p align="center">
+  <img src="https://github.com/DanW11d/danw11d/blob/output/github-contribution-grid-snake.svg" width="600" height="100">
+</p>
 
 ---
 
