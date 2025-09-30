@@ -1,75 +1,97 @@
-# 👋 Hello! I'm DanW11d  
+# 👋 Hi, I'm DanW11d  
 
 ![Header](https://github.com/DanW11d/danw11d/blob/main/assets/github-snake.svg)
 
 ---
 
-## 👨‍💻 About Me  
+## 📚 My stack  
 
-- 😄 Beginner **Python developer**  
-- 🔭 Currently working on a **Telegram bot**  
-- ⚡ University student, looking for my **first job** in IT  
-- 🎯 Interested in backend, bots, and web frameworks  
+### 🔹 Langs  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+</p>
 
----
+### 🔹 Frameworks / Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+</p>
 
-## 🛠️ Tech Stack  
-
-### 💡 Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![TSQL](https://img.shields.io/badge/-TSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-### 🚀 Frameworks & Tools  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
----
-
-## 💻 Most Used Languages  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanW11d&layout=compact&theme=radical&hide_border=true&langs_count=6)  
-
-**Статистика использования:**  
-- 🐍 Python – 53.96%  
-- 🗄️ TSQL – 22.82%  
-- ⚡ C# – 13.36%  
-- 🔷 C++ – 5.40%  
-- 🌐 HTML – 2.35%  
-- 🎮 Lua – 2.10%  
+### 🔹 Software  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 Featured Projects  
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanW11d&theme=radical)  
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanW11d&theme=radical)  
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanW11d&theme=radical)  
+### 🤖 [**Telegram Bot**](https://github.com/your-repo)  
+*Automation assistant with advanced commands, inline menus, and PostgreSQL database*  
+🔹 **Tech**: Python, Aiogram, PostgreSQL, Redis  
+🔹 **Features**: User management, inline keyboard, payment system  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DanW11d&theme=radical&hide_border=true)  
+### 🌐 [**FastAPI Backend**](https://github.com/your-repo)  
+*High-performance REST API for task management with JWT authentication*  
+🔹 **Tech**: FastAPI, SQLAlchemy, JWT, Pydantic  
+🔹 **Features**: CRUD operations, auth system, API documentation  
+
+### 🎮 [**Lua Game Demo**](https://github.com/your-repo)  
+*Game development experiment showcasing Lua scripting and game logic*  
+🔹 **Tech**: Lua, Love2D, Game Development  
+🔹 **Features**: Character movement, collision detection, game states  
+
+### 🐳 [**Dockerized Web App**](https://github.com/your-repo)  
+*Full-stack application with containerized microservices architecture*  
+🔹 **Tech**: Docker, Nginx, Flask, React  
+🔹 **Features**: Microservices, load balancing, CI/CD  
 
 ---
 
-## 🏆 GitHub Achievements  
+## ⭐ GitHub stats  
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=DanW11d&theme=radical&no-frame=true&row=2&column=4)  
+### 🔹 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanW11d&layout=donut&theme=radical)
+
+### 🔹 Trophies  
+![](https://github-profile-trophy.vercel.app/?username=DanW11d&theme=radical&no-frame=true&margin-w=15)
+
+### 🔹 Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanW11d&theme=radical)
+
+### 🔹 Summary Cards  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanW11d&theme=radical)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanW11d&theme=radical)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanW11d&theme=radical)  
 
 ---
 
 ## 🌍 Connect with Me  
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danjek7)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danw11d)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-filchenko)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danw11d)  
 [![VK](https://img.shields.io/badge/-VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/danjek7)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/filchenkodaniil)  
+
+---
+
+⭐ *"Turning ideas into code, one commit at a time."*  
