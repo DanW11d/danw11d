@@ -65,3 +65,11 @@
 ![Achievements](https://github-profile-trophy.vercel.app/?username=DanW11d&theme=radical&no-frame=true&row=2&column=4)  
 
 ---
+
+## 🌍 Connect with Me  
+
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danjek7)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danw11d)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-filchenko)  
+[![VK](https://img.shields.io/badge/-VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/danjek7)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/filchenkodaniil)  
