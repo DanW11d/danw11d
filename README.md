@@ -4,37 +4,59 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 📚 My stack  
 
-- 🎓 University student, aspiring **Backend Developer**.  
-- 🐍 Mainly coding in **Python** (FastAPI, Django, Flask).  
-- 🤖 Passionate about **Telegram bots** and automation tools.  
-- 🌱 Currently learning: **Docker**, **async Python**, and **clean architecture**.  
-- 💼 Looking for my **first developer job / internship**.  
-- 📫 Contact me: [Telegram](https://t.me/danjek7) | [LinkedIn](https://www.linkedin.com/in/daniil-filchenko)  
+### 🔹 Langs  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+</p>
+
+### 🔹 Frameworks / Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+</p>
+
+### 🔹 Software  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-## 🚀 Tech Stack  
+## ⭐ GitHub stats  
 
-### 💡 Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![TSQL](https://img.shields.io/badge/-TSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+### 🔹 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanW11d&layout=donut&theme=radical)
 
-### 🔧 Frameworks & Tools  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+### 🔹 Trophies  
+![](https://github-profile-trophy.vercel.app/?username=DanW11d&theme=radical&no-frame=true&margin-w=15)
+
+### 🔹 Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanW11d&theme=radical)
+
+### 🔹 Summary Cards  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanW11d&theme=radical)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanW11d&theme=radical)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanW11d&theme=radical)  
 
 ---
 
@@ -42,17 +64,9 @@
 
 - 🤖 [**Telegram Bot**](https://github.com/your-repo) — automation assistant with commands, inline menus, and database.  
 - 🌐 [**FastAPI Backend**](https://github.com/your-repo) — REST API for managing tasks with JWT auth.  
-- 🎮 [**Game with Lua**](https://github.com/your-repo) — small experiment in scripting and game logic.  
+- 🎮 [**Lua Game Demo**](https://github.com/your-repo) — experiment in scripting and game logic.  
 
 > ⚡ Check my pinned repositories for more!  
-
----
-
-## 📊 GitHub Stats  
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanW11d&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanW11d&layout=compact&theme=radical&hide_border=true&langs_count=6)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanW11d&theme=radical)  
 
 ---
 
