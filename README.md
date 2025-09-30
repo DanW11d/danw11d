@@ -4,20 +4,28 @@
 
 ---
 
+## 👨‍💻 About Me  
+
+- 😄 Beginner **Python developer**  
+- 🔭 Currently working on a **Telegram bot**  
+- ⚡ University student, looking for my **first job** in IT  
+- 🎯 Interested in backend, bots, and web frameworks  
+
+---
+
 ## 📚 My stack  
 
 ### 🔹 Langs  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
 </p>
 
 ### 🔹 Frameworks / Tools  
@@ -33,54 +41,11 @@
 
 ### 🔹 Software  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
 </p>
-
----
-
-## 🚀 Featured Projects  
-
-### 🤖 [**Telegram Bot**](https://github.com/your-repo)  
-*Automation assistant with advanced commands, inline menus, and PostgreSQL database*  
-🔹 **Tech**: Python, Aiogram, PostgreSQL, Redis  
-🔹 **Features**: User management, inline keyboard, payment system  
-
-### 🌐 [**FastAPI Backend**](https://github.com/your-repo)  
-*High-performance REST API for task management with JWT authentication*  
-🔹 **Tech**: FastAPI, SQLAlchemy, JWT, Pydantic  
-🔹 **Features**: CRUD operations, auth system, API documentation  
-
-### 🎮 [**Lua Game Demo**](https://github.com/your-repo)  
-*Game development experiment showcasing Lua scripting and game logic*  
-🔹 **Tech**: Lua, Love2D, Game Development  
-🔹 **Features**: Character movement, collision detection, game states  
-
-### 🐳 [**Dockerized Web App**](https://github.com/your-repo)  
-*Full-stack application with containerized microservices architecture*  
-🔹 **Tech**: Docker, Nginx, Flask, React  
-🔹 **Features**: Microservices, load balancing, CI/CD  
-
----
-
-## ⭐ GitHub stats  
-
-### 🔹 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanW11d&layout=donut&theme=radical)
-
-### 🔹 Trophies  
-![](https://github-profile-trophy.vercel.app/?username=DanW11d&theme=radical&no-frame=true&margin-w=15)
-
-### 🔹 Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanW11d&theme=radical)
-
-### 🔹 Summary Cards  
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanW11d&theme=radical)  
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanW11d&theme=radical)  
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanW11d&theme=radical)  
 
 ---
 
@@ -94,4 +59,4 @@
 
 ---
 
-⭐ *"Turning ideas into code, one commit at a time."*  
+⭐ *"Turning ideas into code, one commit at a time."*
