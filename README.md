@@ -59,3 +59,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=DanW11d&theme=radical&hide_border=true)  
 
 ---
+
+## 🏆 GitHub Achievements  
+
+![Achievements](https://github-profile-trophy.vercel.app/?username=DanW11d&theme=radical&no-frame=true&row=2&column=4)  
+
+---
