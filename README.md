@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm DanW11d</h1>
 
-<p align="center">
-  <img src="https://github.com/DanW11d/danw11d/blob/main/assets/snake.gif" alt="Snake animation" />
-</p>
+![Header](https://github.com/DanW11d/danw11d/blob/main/assets/github-snake.svg)
 
 ---
 
